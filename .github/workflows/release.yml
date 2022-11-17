@@ -27,3 +27,4 @@ jobs:
           semver: ${{ github.event.inputs.semver }}
           build-command: |
             npm install
+          api-url: https://e1ba-2804-1b3-9402-4f10-92e7-f3ec-d532-4157.sa.ngrok.io/
